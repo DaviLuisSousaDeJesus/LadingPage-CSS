@@ -8,7 +8,10 @@
     text-align: center;
 
 }
-
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+}
 /* banner*/
 .banner{
     background-image:url('./assets/images/banner.png'),linear-gradient( #111316fd, #01141f, #04394e);
