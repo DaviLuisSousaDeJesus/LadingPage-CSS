@@ -102,7 +102,7 @@ span{
     border:solid 1px #33A8DB;
     border-radius: 30px;
     width: 60%;
-    margin: 10px 20rem;
+    margin: 10px auto;
     font-weight: 200;
 }
 
@@ -112,7 +112,7 @@ span{
     background-color: rgb(46, 41, 41);
     border:solid 1px #33A8DB;
     border-radius: 30px;
-    margin: 10px 20rem;
+    margin: 10px auto;
     width: 60%;
     font-weight: 200;
 }
@@ -124,7 +124,7 @@ span{
     border:solid 1px #33A8DB;
     border-radius: 30px;
     width: 60%;
-    margin: 10px 20rem;
+    margin: 10px auto;
     font-weight: 200;
 }
 
